@@ -1,9 +1,9 @@
 my:
-  greeting: Hello World
+  greeting: Hello World from config server 
   list:
-     values: One,Two,Three
+     values: One,Two,Three, Four
 
 db:
-   connection: connection-string-here
+   connection: connection-string-here-from-config-server
    host: localhost
    port: 1200
