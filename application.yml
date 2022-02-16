@@ -1,0 +1,9 @@
+my:
+  greeting: Hello World
+  list:
+     values: One,Two,Three
+
+db:
+   connection: connection-string-here
+   host: localhost
+   port: 1200
